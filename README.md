@@ -1,1 +1,1 @@
-Welcome to Coalesce HDL!
+Welcome to Coalesce HOL!
